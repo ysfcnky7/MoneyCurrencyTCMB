@@ -1,0 +1,6 @@
+C:\Users\yusuf\source\repos\SanConsole\SanConsole\bin\Debug\SanConsole.exe.config
+C:\Users\yusuf\source\repos\SanConsole\SanConsole\bin\Debug\SanConsole.exe
+C:\Users\yusuf\source\repos\SanConsole\SanConsole\bin\Debug\SanConsole.pdb
+C:\Users\yusuf\source\repos\SanConsole\SanConsole\obj\Debug\SanConsole.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\SanConsole\SanConsole\obj\Debug\SanConsole.exe
+C:\Users\yusuf\source\repos\SanConsole\SanConsole\obj\Debug\SanConsole.pdb
